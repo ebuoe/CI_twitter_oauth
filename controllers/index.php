@@ -1,11 +1,13 @@
 <?php  if(! defined("BASEPATH")) exit("no direct acces to script");
 
 /**
- * @copyright Zerobias 2013
- * an interactive website for sports
- * view conroller : handles all functions  related to reading 
- * articles,rating , commenting and sub commenting
- * @author : nwadiugwu "ebuoe" chukwuebuka
+ * ci_tweitter_oauth library for codeiginter
+ *
+ *
+ * @package		libraries
+ * @author		nwadiugwu @ebuoe chukwuebuka
+ * @version		tested with CI 2.0.2
+ * @based on	twitterOauth by Abraham Williams
  */
 
 class index extends CI_Controller
