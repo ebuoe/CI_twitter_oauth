@@ -35,7 +35,7 @@ window.open(link,"_blank","toolbar=no, location=yes, directories=no, status=no, 
 </head>
 <body>
 	<div id="content">
-		<img src="<?php echo base_url()."twitteroauth/images/darker.png";?>" style="cursor:pointer" onclick="ci_twitter()"  />
+		<img src="<?php echo base_url()."images/darker.png";?>" style="cursor:pointer" onclick="ci_twitter()"  />
 		
 		<p>
 		<a href="<?php echo site_url()."index/test_tweet_update"; ?>"  >post a test tweet (works only after authentication
