@@ -10,7 +10,7 @@
  * @based on	twitterOauth by Abraham Williams
  */
  
- require_once('twitteroauth/twitteroauth/twitteroauth.php');
+ require_once('twitteroauth/twitteroauth.php');
  require_once('twitteroauth/config.php');
  
  class Ci_twitter_oauth
